@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         mytext = findViewById<TextView>(R.id.fancytext)
 
-        mytext.text = "Hepp"
+        mytext.text = "Hej"
 
         findViewById<Button>(R.id.fancybutton).setOnClickListener {
 
